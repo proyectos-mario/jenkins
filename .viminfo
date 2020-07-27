@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+|2,0,1595885423,,"q"
 :wq
 |2,0,1595885299,,"wq"
-:q
-|2,0,1595872650,,"q"
 :QW
 |2,0,1595859294,,"QW"
 
@@ -33,17 +33,17 @@
 
 # File marks:
 '0  1  12  ~/.gitignore
-|4,48,1,12,1595885299,"~/.gitignore"
-'1  9  8  ~/docker-compose.yml
-|4,49,9,8,1595872731,"~/docker-compose.yml"
-'2  9  19  ~/docker-compose.yml
-|4,50,9,19,1595872687,"~/docker-compose.yml"
-'3  9  6  ~/docker-compose.yml
-|4,51,9,6,1595872650,"~/docker-compose.yml"
+|4,48,1,12,1595885423,"~/.gitignore"
+'1  1  12  ~/.gitignore
+|4,49,1,12,1595885299,"~/.gitignore"
+'2  9  8  ~/docker-compose.yml
+|4,50,9,8,1595872731,"~/docker-compose.yml"
+'3  9  19  ~/docker-compose.yml
+|4,51,9,19,1595872687,"~/docker-compose.yml"
 '4  9  6  ~/docker-compose.yml
 |4,52,9,6,1595872650,"~/docker-compose.yml"
-'5  9  7  ~/docker-compose.yml
-|4,53,9,7,1595872603,"~/docker-compose.yml"
+'5  9  6  ~/docker-compose.yml
+|4,53,9,6,1595872650,"~/docker-compose.yml"
 '6  9  7  ~/docker-compose.yml
 |4,54,9,7,1595872603,"~/docker-compose.yml"
 '7  9  7  ~/docker-compose.yml
@@ -51,15 +51,25 @@
 '8  9  7  ~/docker-compose.yml
 |4,56,9,7,1595872603,"~/docker-compose.yml"
 '9  9  7  ~/docker-compose.yml
-|4,57,9,7,1595872591,"~/docker-compose.yml"
+|4,57,9,7,1595872603,"~/docker-compose.yml"
 
 # Jumplist (newest first):
+-'  1  12  ~/.gitignore
+|4,39,1,12,1595885423,"~/.gitignore"
 -'  1  12  ~/.gitignore
 |4,39,1,12,1595885299,"~/.gitignore"
 -'  9  8  ~/docker-compose.yml
 |4,39,9,8,1595872731,"~/docker-compose.yml"
 -'  9  8  ~/docker-compose.yml
 |4,39,9,8,1595872731,"~/docker-compose.yml"
+-'  9  8  ~/docker-compose.yml
+|4,39,9,8,1595872731,"~/docker-compose.yml"
+-'  9  8  ~/docker-compose.yml
+|4,39,9,8,1595872731,"~/docker-compose.yml"
+-'  9  19  ~/docker-compose.yml
+|4,39,9,19,1595872687,"~/docker-compose.yml"
+-'  9  19  ~/docker-compose.yml
+|4,39,9,19,1595872687,"~/docker-compose.yml"
 -'  9  19  ~/docker-compose.yml
 |4,39,9,19,1595872687,"~/docker-compose.yml"
 -'  9  19  ~/docker-compose.yml
@@ -68,10 +78,22 @@
 |4,39,9,6,1595872650,"~/docker-compose.yml"
 -'  9  6  ~/docker-compose.yml
 |4,39,9,6,1595872650,"~/docker-compose.yml"
+-'  9  6  ~/docker-compose.yml
+|4,39,9,6,1595872650,"~/docker-compose.yml"
+-'  9  6  ~/docker-compose.yml
+|4,39,9,6,1595872650,"~/docker-compose.yml"
 -'  9  7  ~/docker-compose.yml
 |4,39,9,7,1595872603,"~/docker-compose.yml"
 -'  9  7  ~/docker-compose.yml
 |4,39,9,7,1595872603,"~/docker-compose.yml"
+-'  9  7  ~/docker-compose.yml
+|4,39,9,7,1595872603,"~/docker-compose.yml"
+-'  9  7  ~/docker-compose.yml
+|4,39,9,7,1595872603,"~/docker-compose.yml"
+-'  9  7  ~/docker-compose.yml
+|4,39,9,7,1595872591,"~/docker-compose.yml"
+-'  9  7  ~/docker-compose.yml
+|4,39,9,7,1595872591,"~/docker-compose.yml"
 -'  9  7  ~/docker-compose.yml
 |4,39,9,7,1595872591,"~/docker-compose.yml"
 -'  9  7  ~/docker-compose.yml
@@ -97,6 +119,30 @@
 -'  7  12  ~/docker-compose.yml
 |4,39,7,12,1595872543,"~/docker-compose.yml"
 -'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872543,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872543,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872543,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872543,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872543,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872543,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872543,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872543,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872543,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872543,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872402,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872402,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
 |4,39,7,12,1595872402,"~/docker-compose.yml"
 -'  7  12  ~/docker-compose.yml
 |4,39,7,12,1595872402,"~/docker-compose.yml"
@@ -105,63 +151,17 @@
 -'  7  12  ~/docker-compose.yml
 |4,39,7,12,1595872306,"~/docker-compose.yml"
 -'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872306,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595872306,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
 |4,39,7,12,1595866450,"~/docker-compose.yml"
 -'  7  12  ~/docker-compose.yml
 |4,39,7,12,1595866450,"~/docker-compose.yml"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
--'  1  12  ~/centos7/Dockerfile
-|4,39,1,12,1595866331,"~/centos7/Dockerfile"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595866450,"~/docker-compose.yml"
+-'  7  12  ~/docker-compose.yml
+|4,39,7,12,1595866450,"~/docker-compose.yml"
 -'  1  12  ~/centos7/Dockerfile
 |4,39,1,12,1595866331,"~/centos7/Dockerfile"
 -'  1  12  ~/centos7/Dockerfile
@@ -258,7 +258,7 @@
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1595885298	0
+	*	1595885420	0
 	"	1	12
 	^	1	13
 	.	1	12
