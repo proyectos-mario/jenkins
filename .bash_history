@@ -256,3 +256,47 @@ docker exec -it remote-host bash
 docker exec -it remote-host bash
 ls
 vi aws-bd-script.sh
+ls
+ls
+vi aws-bd-script.sh 
+rm -r aws-bd-script.sh 
+vi aws-bd-script1.sh 
+docker exec -it remote-host cat /tmp/script.sh
+docker execremote-host cat /tmp/script.sh
+docker exec remote-host cat /tmp/script.sh
+cat aws-bd-script1.sh 
+vi aws-bd-script1.sh 
+vi docker-compose.yml 
+cat docker-compose.yml 
+chmod +x aws-bd-script1.sh 
+docker-compose down
+docker-compose up
+docker-compose up -d
+docker exec remote-host cat /tmp/script.sh
+docker exec -it remote-host bash
+ls
+git add -A
+git commit -m "Ultimos ajustes"
+git push origin master
+cat docker-compose.yml 
+docker-compose up -d
+ls
+docker-compose ps
+docker exec -it jenkins bash
+cd jenkins_home/
+ls
+ls conf*
+sudo vi config.xml 
+systemctl list-unit-files
+docker-compose down
+
+sudo vi config.xml 
+docker-compose down
+docker-compose up -d
+docker-compose down
+
+docker-compose up -d
+
+vi config.xml 
+docker-compose down 
+docker-compose up -d
