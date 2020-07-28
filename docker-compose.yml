@@ -16,5 +16,16 @@ services:
       context: centos7
     networks:
       - net
+    volumes:
+      - /home/ubuntu/aws-bd-script1.sh:/tmp/script.sh    
+  db_host:
+    container_name: db
+    image: mysql:5.7
+    environment:  
+      - "MYSQL_ROOT_PASSWORD=1234"
+    volumes:
+      - /home/ubuntu/db_data:/var/lib/mysql      
+    networks:
+      - net
 networks:
   net:

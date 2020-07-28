@@ -169,3 +169,90 @@ ls
 sudo service jenkins stop
 sudo apt-get remove --purge jenkins
 ls
+sudo apt-get install git
+ls
+git init
+git remote add origin https://github.com/proyectos-mario/jenkins.git
+git pull 
+git pull origin master
+git add -A
+touch .gitignore
+vi .gitignore 
+git add -A
+git commit -m "Ajustes"
+git reset --hard
+gis status
+git status
+ls
+cd centos7/
+ls
+ls -l
+cd ..
+git add -A
+cd ..
+ls
+cd ubuntu/
+ls
+vi .gitignore
+git add -A
+git commit -m "asjues"
+git commit -m "ajsues"
+gist status
+git status
+git push origin master
+git pull
+git pull origin master
+git push --force
+git push origin master --force
+git rm -r --cached jenkins_home/
+ls
+git add -A
+git commit -m "ajus"
+git push origin master
+ls
+vi docker-compose.yml 
+docker-compose build
+cat docker-compose.yml 
+docker-compose build
+docker-compose up -d
+vi docker-compose.yml 
+docker-compose up -d
+docker logs db
+docker exec -it db bash
+ls
+cd centos7/
+ls
+cd ..
+cd db_data/
+ls
+cd ..
+ls
+vi .gitignore 
+gis status
+git status
+cd ,,
+cd..
+ls
+cd centos7/
+ls
+vi Dockerfile 
+cd ..
+docker-compose 
+docker-compose build
+cd centos7/
+ls
+vi remote-key
+docker-compose build
+vi docker-compose.yml 
+cd centos7/
+vi Dockerfile 
+docker-compose build
+vi Dockerfile 
+docker-compose build
+docker-compose up -d
+docker exec -it remote-host bash
+ls
+docker exec -it remote-host bash
+docker exec -it remote-host bash
+ls
+vi aws-bd-script.sh
